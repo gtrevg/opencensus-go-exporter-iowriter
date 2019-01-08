@@ -31,6 +31,6 @@ go build
 
 To-do:
 ------
-[ ] Bug - Fix logging of `Rows[i].Tags.Key` as the value is currently `{}`
-[ ] Feature - Do not log empty keys in order to reduce log size
-[ ] Feature - Provide option not to log view data description
+* [ ] Bug - Fix logging of `Rows[i].Tags.Key` as the value is currently `{}`
+* [ ] Feature - Do not log empty keys in order to reduce log size
+* [ ] Feature - Provide option not to log view data description
